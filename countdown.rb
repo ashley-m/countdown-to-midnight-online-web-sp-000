@@ -1,10 +1,10 @@
 #write your code here
 
 def countdown(iter)
-  x=iter*-1
+  x=iter
   iter.times do
     puts "#{x} SECOND(S)!"
-    x+=1
+    x-=1
   end
 
 end
