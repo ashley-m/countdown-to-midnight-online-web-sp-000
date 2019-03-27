@@ -17,5 +17,5 @@ def countdown_with_sleep(iter)
     sleep(1)
   end
 return "HAPPY NEW YEAR!"
-  
+
 end
